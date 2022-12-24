@@ -1,8 +1,7 @@
-using DummyAds.Core;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace DummyAds.Test
+namespace EmreBeratKR.DummyAds.Test
 {
     public class DummyAdsTester : MonoBehaviour
     {

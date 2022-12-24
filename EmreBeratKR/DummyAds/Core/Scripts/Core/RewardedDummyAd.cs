@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UI;
 
-namespace DummyAds.Core
+namespace EmreBeratKR.DummyAds
 {
     public class RewardedDummyAd : BaseDummyAd
     {

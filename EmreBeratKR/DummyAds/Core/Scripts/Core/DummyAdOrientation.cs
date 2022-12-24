@@ -1,4 +1,4 @@
-namespace DummyAds.Core
+namespace EmreBeratKR.DummyAds
 {
     public enum DummyAdOrientation
     {

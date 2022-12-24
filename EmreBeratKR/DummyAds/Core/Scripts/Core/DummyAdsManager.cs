@@ -3,7 +3,7 @@ using UnityEngine;
 using Object = UnityEngine.Object;
 using Random = UnityEngine.Random;
 
-namespace DummyAds.Core
+namespace EmreBeratKR.DummyAds
 {
     [CreateAssetMenu(menuName = "DummyAds/Manager")]
     public class DummyAdsManager : ScriptableObject

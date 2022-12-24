@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace DummyAds.Test
+namespace EmreBeratKR.DummyAds.Test
 {
     public static class DummyCollection
     {
