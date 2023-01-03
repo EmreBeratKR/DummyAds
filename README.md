@@ -2,4 +2,4 @@
 
 ## About
 
-An Open-source Object Pooling solution for Unity
+An Open-source offline Advertisement SDK for Unity
